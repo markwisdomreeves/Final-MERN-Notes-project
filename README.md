@@ -16,4 +16,4 @@
 
 ## Frontend
 ### Enter the client folder and install all the dependencies: npm install
-### lastly, run this command: npm start
+### Lastly, run this command: npm start
