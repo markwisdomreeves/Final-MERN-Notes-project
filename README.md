@@ -1,4 +1,4 @@
-### Final-MERN-Notes-project
+### MERN Stack Notes project
 #### This is a Notes App with Registstration and Login Authentication. Only a Login User is allowed to create a note. If a user is not Register and Login, they can not CREATE, READ, UPDATE and DELETE a note. This project used Node, Express and Mongodb in the Backend and React in the Frontend and it used Json Web Token for Authentication (jwt).
 
 ### To view the project, These are the instructions
