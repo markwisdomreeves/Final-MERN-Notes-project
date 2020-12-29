@@ -9,7 +9,7 @@
 
 ### This is an Example
 #### MONGODB_URL= dashboard.heroku.com/apps/mark-mern
-#### TOKEN_SECRET= my name is mark and I am a Web Developer
+#### TOKEN_SECRET= mynameismark12345andiamaweb12345developer
 #### PORT: 5000
 #### Lastly, run this command:  npm run dev  or  npm start
 
